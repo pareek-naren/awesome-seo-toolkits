@@ -1,6 +1,8 @@
 # awesome-seo-toolkits
 This repository is your one-stop shop for discovering the best SEO (Search Engine Optimization) tools to propel your website to the top of search results.
 
+- Chinese version: [https://tenten.co/learning/seo-tools-unlocked/](https://tenten.co/learning/seo-tools-unlocked/)
+- English: [https://seo.tenten.co/en/seo/awesome-seo-toolkits/](https://seo.tenten.co/en/seo/awesome-seo-toolkits/)
 
 # Fantastic SEO Resources
 
